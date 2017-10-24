@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "63663735008",
+    "firebase_url": "https://fir-b7ef3.firebaseio.com",
+    "project_id": "fir-b7ef3",
+    "storage_bucket": "fir-b7ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63663735008:android:4b0dbf3c0fa45e83",
+        "android_client_info": {
+          "package_name": "in.propelsoft.firebasecloudsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63663735008-1n621c5gn47q5hsmkoocqd9jtik3u7rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjqK4f8BOd9v88r-mSai9Fc4FijU50sk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
